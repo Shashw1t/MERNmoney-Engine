@@ -1,2 +1,2 @@
 # MERNmoney-Engine
-An expense tracker web app using MERN stack
+An expense tracker web app made to learn MERN stack from botton up.
